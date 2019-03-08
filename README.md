@@ -1,5 +1,31 @@
 # BaseRecyclerAdapter
 
+<p style='color:red'>This is some red text.</p>
+<font color="red">This is some text!</font>
+These are <b style='color:red'>red words</b>.
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+
+```json
+   // code for coloring
+```
+```html
+   // code for coloring
+```
+```js
+   // code for coloring
+```
+```css
+   // code for coloring
+```
+
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
+
 <font color=gray size=72> color=gray </font>
 
 <div style="color:#F00"> 我颜色为红色 </div> 
